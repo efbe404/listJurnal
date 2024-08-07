@@ -64,7 +64,7 @@
 <script setup>
 import dayjs from 'dayjs';
 import { inject,ref, onMounted } from 'vue';
-import Logo from '@/assets/logo-fkm.png';
+import Logo from '@/assets/logo-index.png';
 import Error from '@/components/Error.vue';
 import { storeToRefs } from 'pinia';
 import CardJurnal from '@/components/CardJurnal.vue';
